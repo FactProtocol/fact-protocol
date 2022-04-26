@@ -1,2 +1,2 @@
-# fact-token
-Docs and code repository of Fact Protocol's native crypto token, $FACT.
+# Fact Protocol
+A decentralized fact-checking system and web3 verifiability layer. Powered by blockchain tech. and globally distributed communities.
